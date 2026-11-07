@@ -43,3 +43,18 @@ The goal is to understand how natural population change and migration have influ
 Olena Sazonova
 
 Data Analytics Student | Aspiring Junior Data Analyst
+
+## Data Sources
+
+The analysis uses publicly available datasets from Statistics Canada:
+
+- [Table 17-10-0005-01 — Population estimates](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000501)
+- [Table 17-10-0008-01 — Components of demographic growth](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000801)
+
+Additional information on Ukrainian arrivals was obtained from the Association for New Canadians (ANC).
+
+### Data Availability
+
+The original CSV files are not included in this repository due to their size. They can be downloaded from the official Statistics Canada tables linked above.
+
+The datasets should be placed in the `data/raw/` directory, preserving the folder structure referenced in the Jupyter Notebook.
