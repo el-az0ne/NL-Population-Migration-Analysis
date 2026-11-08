@@ -27,16 +27,16 @@ The goal is to understand how natural population change and migration have influ
 - Migration has become an important contributor to population growth.
 - Recent population growth has occurred despite deaths exceeding births.
 
-## Data Sources
-
-- Statistics Canada — population estimates and demographic components
-- Association for New Canadians — information on Ukrainian arrivals in Newfoundland and Labrador
-
 ## Project Structure
 
 - `Notebooks/` — Jupyter Notebook containing the analysis and visualizations
 - `data/raw/` — original datasets
 - `data/processed/` — directory for processed datasets
+- 
+   ## Jupyter Notebooks
+This project is available in two languages:
+- 🇨🇦 **English version:** [View Notebook](Notebooks/01_data_exploration_EN.ipynb)
+- 🇺🇦 **Ukrainian version:** [View Notebook](Notebooks/01_data_exploration_UA.ipynb)
 
 ## Author
 
