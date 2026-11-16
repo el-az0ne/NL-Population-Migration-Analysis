@@ -1,3 +1,12 @@
+
+### 📖 Featured Analytical Article
+
+**Newfoundland and Labrador's Population Is Growing. But Is That Really Good News?**
+
+[🌐 Read the full article in Ukrainian — with charts, insights, and conclusions](https://el-az0ne.github.io/NL-Population-Migration-Analysis/)
+
+---
+
 # Population and Migration Analysis in Newfoundland and Labrador (2000–2025)
 
 ## Project Overview
